@@ -1,6 +1,6 @@
 import React from 'react';
 import ClassComponent from './Components/ClassComponent.js';
-import FuncComponent from './Components/FuncComponent.js';
+import FuncComponent from './Components/FuncComponent';
 import './App.css';
 
 function App() {
